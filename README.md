@@ -1,7 +1,12 @@
 # Hi there 👋
 
-My name is Slava   
-I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A).
+* Slava
+* 20 y.o. 
+* 3rd year bachelor's degree in Finance and Credit
+* Programming - just hobbie (Unfortunately)
+* Looking for a job
+* Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A).
+* Sometimes gamedesiner
 
 <div id="header" align="center">
   <img src="https://i.imgur.com/zh4IXz5.gif" width="500"/>
