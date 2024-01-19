@@ -6,7 +6,7 @@
 * Programming - just hobbie (Unfortunately)
 * Looking for a job
 * Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A).
-* Sometimes gamedesiner
+* Sometimes game desiner
 
 <div id="header" align="center">
   <img src="https://i.imgur.com/zh4IXz5.gif" width="500"/>
