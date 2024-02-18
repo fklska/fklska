@@ -3,7 +3,7 @@
 * Slava
 * 20 y.o. 
 * 3rd year bachelor's degree in Finance and Credit
-* Programming - just hobbie (Unfortunately)
+* Programming - just hobbie
 * Looking for a job
 * Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A).
 * Sometimes game desiner
