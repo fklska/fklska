@@ -26,8 +26,6 @@
   </div>
 </div>
 
-## :mortar_board: About Me :
-
 ### Hard Skills :hammer_and_wrench: :
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="100">
@@ -42,9 +40,8 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklska&show_icons=true&theme=transparent)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklska&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
 
 ### :writing_hand: Blog Posts :
 
