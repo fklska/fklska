@@ -2,11 +2,8 @@
 
 * Slava
 * 20 y.o. 
-* 3rd year bachelor's degree in Finance and Credit
-* Programming - just hobbie
-* Looking for a job
-* Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A).
-* Sometimes game desiner
+* Trying to do something <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A).
+
 
 <div id="header" align="center">
   <img src="https://i.imgur.com/zh4IXz5.gif" width="500"/>
@@ -42,7 +39,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
-
-### :writing_hand: Blog Posts :
-
 
