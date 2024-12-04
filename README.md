@@ -23,20 +23,6 @@
   </div>
 </div>
 
-### Hard Skills :hammer_and_wrench: :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain-wordmark.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original-wordmark.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nginx/nginx-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-plain-wordmark.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" width="100">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-plain-wordmark.svg" width="100">
-</div>
-
-### :fire: My Stats :
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
 
