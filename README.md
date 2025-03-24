@@ -1,7 +1,6 @@
 # Hi there 👋
 
 * Slava from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A)
-* 21 y.o. 
 * Trying to do something <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
