@@ -22,7 +22,7 @@
   </div>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide_border=true&hide=jupyter%20notebook,html,css")
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fklska&layout=compact&theme=transparent&langs_count=10&hide_border=true&hide=jupyter%20notebook")
 
