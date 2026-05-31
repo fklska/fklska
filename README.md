@@ -1,7 +1,7 @@
 # Hi there 👋
 
 * Slava from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A)
-* Trying to do something <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+* Медленно ползет улитка на гору Фудзи... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 <div id="header" align="center">
