@@ -1,7 +1,9 @@
 # Hi there 👋
 
+Тихо, тихо ползи улитка по склону Фудзи до самых высот...
+
+
 * Slava from [Khabarovsk](https://maps.app.goo.gl/W85mVL8uZkvDBTd4A)
-* Медленно ползет улитка на гору Фудзи... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 
 <div id="header" align="center">
